@@ -26,6 +26,9 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+
+    compile 'com.ringcentral:ringcentral-pubnub:1.0.0-beta10'
+    // compile 'com.ringcentral:ringcentral:1.0.0-beta9'
 }
 
 // Define the main class for the application
